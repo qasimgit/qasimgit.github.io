@@ -4,20 +4,35 @@ import devfolio from "../assets/devfolio.JPG";
 import dmc from "../assets/dmc.JPG";
 import ecomm from "../assets/ecomm.jpg";
 import githubjobs from "../assets/githubjobs.JPG";
+import apollo from "../assets/apollo.JPG";
+import camerapp from "../assets/camerapp.png";
 
 const projectData = [
   {
     name: "React Developer Portfolio",
     detail:
       "Minimalist Deveoper Portfolio website purely built on Reactjs with react-animations",
-    imagesrc:  devfolio ,
+    imagesrc: devfolio,
     repolink: "https://github.com/qasimgit/Developer-Folio",
+  },
+  {
+    name: "React Apollo GraphQl CRUD",
+    detail: "A CRUD web app built on react apollo graphQl ",
+    imagesrc: apollo,
+    repolink: "https://github.com/qasimgit/React-Apollo-Graphql-Crud",
+  },
+  {
+    name: "Camera gesture web App (P rep)",
+    detail:
+      "A Camera web app built on react js on which only works on gestures like double tap and long press etc ",
+    imagesrc: covid,
+    repolink: "https://github.com/qasimgit/camera-app-ags",
   },
   {
     name: "Corona Virus Tacker",
     detail:
       "World Wide Corona Virus Tracker build with Reactjs with some libraries MaterialUi, Count and Chartjs with countryPicker and some other stuff ",
-    imagesrc: covid,
+    imagesrc: camerapp,
     repolink: "https://github.com/qasimgit/Covid-19-Tracker-Reactjs",
   },
   {
