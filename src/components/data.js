@@ -25,14 +25,14 @@ const projectData = [
     name: "Camera gesture web App (P rep)",
     detail:
       "A Camera web app built on react js on which only works on gestures like double tap and long press etc ",
-    imagesrc: covid,
+    imagesrc: camerapp,
     repolink: "https://github.com/qasimgit/camera-app-ags",
   },
   {
     name: "Corona Virus Tacker",
     detail:
       "World Wide Corona Virus Tracker build with Reactjs with some libraries MaterialUi, Count and Chartjs with countryPicker and some other stuff ",
-    imagesrc: camerapp,
+    imagesrc: covid,
     repolink: "https://github.com/qasimgit/Covid-19-Tracker-Reactjs",
   },
   {
